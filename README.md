@@ -1,4 +1,5 @@
 # Spine Generic Public Database (Single Subject)
+[![Build Status](https://travis-ci.com/spine-generic/data-single-subject.svg?branch=master)](https://travis-ci.com/spine-generic/data-single-subject)
 
 ## About this dataset
 
