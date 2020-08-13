@@ -30,4 +30,6 @@ script:
   - echo -e "\e[1m \e[4m \e[34mRunning BIDS-validator \n"
   - bids-validator ./
   - echo -e "\e[1m \e[4m \e[34mChecking acquisition parameters \n"
-  - sg_params_checker -path-in ./  
+  - sg_params_checker -path-in ./
+  - echo -e "\e[1m \e[4m \e[34mChecking data consistency \n"
+  - sg_check_data_consistency -path-in ./
