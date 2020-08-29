@@ -35,7 +35,7 @@ git clone https://github.com/spine-generic/data-single-subject.git
 
 ## Analysis
 
-The instructions to process this dataset are available in the [spine-generic documentation](https://spine-generic.readthedocs.io/en/latest/analysis_pipeline.html).
+The instructions to process this dataset are available in the [spine-generic documentation](https://spine-generic.readthedocs.io/en/latest/analysis-pipeline.html).
 
 ## Contributing
 
