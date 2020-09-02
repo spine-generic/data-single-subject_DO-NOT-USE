@@ -1,5 +1,5 @@
 csa_gm:
-- sub-juntendoAchieva  # repositionning (https://github.com/spine-generic/data-single-subject/issues/8)
+- juntendoAchieva  # repositionning (https://github.com/spine-generic/data-single-subject/issues/8)
 
 dti_fa:
 - perform  # strong aliasing artifact (https://github.com/spine-generic/data-single-subject/issues/10)
